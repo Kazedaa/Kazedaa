@@ -19,17 +19,17 @@ Let's connect and collaborate to create cool and awesome solutions to take the w
 
 # 📊 My GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Kazedaa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kazedaa&theme=tokyonight&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Kazedaa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true) -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kazedaa&theme=tokyonight&hide_border=false) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazedaa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repositories
+<!-- ### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=Kazedaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kazedaa&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Kazedaa&icon=2&color=1)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
