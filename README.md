@@ -6,7 +6,8 @@ Let's connect and collaborate to create cool and awesome solutions to take the w
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hemang J Jamadagni) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemangjamadagni/)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-762db6)](https://kazedaa.vercel.app/)
 
 <br>
 
