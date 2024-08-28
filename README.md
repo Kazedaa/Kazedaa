@@ -18,6 +18,7 @@ Let's connect and collaborate to create cool and awesome solutions to take the w
 <br>
 
 # 📊 My GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=Kazedaa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kazedaa&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazedaa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
