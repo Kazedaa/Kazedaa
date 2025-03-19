@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 A Third Year CSE Undergrad at NITK<br><br>🎓 Passionate CSE student eager to explore the endless possibilities of technology.<br><br>💡 Enthusiastic about coding, software development, and innovative problem-solving.<br><br>🌱 Currently expanding my knowledge in various fields of Computer Science.<br><br>🤝 Open to collaborating on exciting and impactful projects.<br><br>✨ Always looking for opportunities to learn and grow!</p>
+<p align="left">🎓 A Third Year CSE Undergrad at NITK<br><br>🎓 Passionate about coding and software development.<br><br>💡 Exploring various fields of Computer Science.<br><br>🌱 Always eager to learn and grow.<br><br>🤝 OOpen to collaborations and new opportunities.</p>
 
 ###
 
@@ -85,10 +85,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
+  <a href="mailto:hemangjamadagni@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/hemangjamadagni" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/kazeda2a" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
