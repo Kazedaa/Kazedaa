@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 A Third Year CSE Undergrad at NITK<br><br>🎓 Passionate about coding and software development.<br><br>💡 Exploring various fields of Computer Science.<br><br>🌱 Always eager to learn and grow.<br><br>🤝 Open to collaborations and new opportunities.</p>
+<p align="left">🎓 A Third Year CSE Undergrad at NITK<br><br>🔭 Currently working on: Deep Learning models for computer vision applications<br><br>🌱 Exploring advanced topics in AI/ML and network protocols<br><br>🤝 Open to collaborating on AI and Networking projects</p>
 
 ###
 
