@@ -10,8 +10,9 @@
   Currently working on: <br>
    - Deep Learning for Computer Vision<br>
    - Low-Level Systems Programming with a focus on eBPF<br>
-   - Networking Protocols<br>
-  Interested in Research and developement in these fields.
+   - Networking Protocols<br><br>
+  Interested in Research and development in these fields.<br><br>
+  Feel Free to take a look at my recent endeavor,eBAF: An eBPF-based Spotify Adblocker.<br>
 </p>
 
 ###
