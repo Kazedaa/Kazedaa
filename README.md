@@ -2,11 +2,17 @@
 
 ###
 
-<h1 align="left">✨ Hi, I'm Hemang!</h1>
+<h3 align="left">✨ Hi, I'm Hemang!</h1>
 
 ###
 
-<p align="left">🎓 A Third Year CSE Undergrad at NITK<br><br>🔭 Currently working on: Deep Learning models for computer vision applications<br><br>🌱 Exploring advanced topics in AI/ML and network protocols<br><br>🤝 Open to collaborating on AI and Networking projects</p>
+<p align="left">A Fourth Year CSE Undergrad at NITK<br><br>
+  Currently working on: <br>
+   - Deep Learning for Computer Vision<br>
+   - Low-Level Systems Programming with a focus on eBPF<br>
+   - Networking Protocols<br>
+  Interested in Research and developement in these fields.
+</p>
 
 ###
 
@@ -95,17 +101,4 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">📊 Github Stats</h1>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kazedaa.Kazedaa&left_text=Views"  />
-</div>
-
-###
-
 <br clear="both">
