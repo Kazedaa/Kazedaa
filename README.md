@@ -12,7 +12,8 @@
    - Low-Level Systems Programming with a focus on eBPF<br>
    - Networking Protocols<br><br>
   Interested in Research and development in these fields.<br><br>
-  Feel Free to take a look at my recent endeavor,eBAF: An eBPF-based Spotify Adblocker.<br>
+Feel free to check out my latest project:  
+<a href="https://github.com/Kazedaa/eBAF"><b>eBAF: An eBPF-based Spotify Adblocker</b></a>  
 </p>
 
 ###
