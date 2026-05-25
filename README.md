@@ -2,18 +2,28 @@
 
 ###
 
-<h3 align="left">✨ Hi, I'm Hemang!</h1>
+<h3 align="left">✨ Hi, I'm Hemang!</h3>
 
 ###
 
-<p align="left">A Fourth Year CSE Undergrad at NITK<br><br>
-  Currently working on: <br>
-   - Deep Learning for Computer Vision<br>
-   - Low-Level Systems Programming with a focus on eBPF<br>
-   - Networking Protocols<br><br>
-  Interested in Research and development in these fields.<br><br>
-Feel free to check out my latest project:  
-<a href="https://github.com/Kazedaa/eBAF"><b>eBAF: An eBPF-based Spotify Adblocker</b></a>  
+<p align="left">
+<b>Incoming MSCS Student at UCSD | BTech CSE from NITK, Minor in Machine Learning</b> <br><br>
+
+I am an Applied AI and Computer Vision Researcher with a rigorous background in low-level systems engineering<br><br>
+
+<b>Currently working on:</b> <br>
+   - Computer Vision Research <br>
+   - Systems Engineering & Open Source Contributions to NeST<br><br>
+
+<b>Latest Highlights:</b><br>
+   - Authored MANTA:Physics-Informed Underwater Object Tracking, accepted to **WACV2026**.<br>
+   - Presented a Congestion Control Evaluation Suite Designs at the **124th IETF Meeting** to the CCWG in Montreal, Canada.<br>
+   - Developed eBAF, a kernel-level eBPF Ad Firewall that received a shout-out from eBPF Foundation Leader, **Bill Mulligan** in his newsletter **Echo News**.<br>
+   - Co-Authored UnDIVE: Generalized Underwater Video Enhancement using Generative Priors, accepted to **WACV 2025**, and presented at Tucson, USA.
+   - Authored HARQ Soft Combining Using Bidirectional LSTMs, accepted and presented at **SSWC2024**.<br><br>
+
+<b>Currently Seeking:</b> Summer 2027 Internships.<br><br>
+
 </p>
 
 ###
@@ -99,8 +109,8 @@ Feel free to check out my latest project:
   <a href="https://www.linkedin.com/in/hemangjamadagni/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://t.me/kazeda2a" target="_blank">
+  <!-- <a href="https://t.me/kazeda2a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
-  </a>
+  </a> -->
 </div>
 <br clear="both">
