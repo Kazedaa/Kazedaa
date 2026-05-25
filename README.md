@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-<b>Incoming MSCS Student at UCSD | BTech CSE from NITK, Minor in Machine Learning</b> <br><br>
+<b>Incoming MSCS Student at UCSD | BTech CSE at NITK, Minor in Machine Learning</b> <br><br>
 
 I am an Applied AI and Computer Vision Researcher with a rigorous background in low-level systems engineering<br><br>
 **Actively Seeking Summer 2027 Internships**<br><br>
