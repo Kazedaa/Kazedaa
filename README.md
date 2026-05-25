@@ -10,7 +10,7 @@
 <b>Incoming MSCS Student at UCSD | BTech CSE from NITK, Minor in Machine Learning</b> <br><br>
 
 I am an Applied AI and Computer Vision Researcher with a rigorous background in low-level systems engineering<br><br>
-**Currently Seeking Summer 2027 Internships**<br><br>
+**Actively Seeking Summer 2027 Internships**<br><br>
 
 <b>Currently working on:</b> <br>
    - Computer Vision Research <br>
