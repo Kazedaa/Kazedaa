@@ -18,7 +18,7 @@ I am an Applied AI and Computer Vision Researcher with a rigorous background in 
 
 <b>Latest Highlights:</b><br>
    - Authored MANTA:Physics-Informed Underwater Object Tracking, accepted to **WACV2026**.<br>
-   - Presented a Congestion Control Evaluation Suite Designs at the **124th IETF Meeting** to the CCWG in Montreal, Canada.<br>
+   - Presented a Congestion Control Evaluation Suite Design at the **124th IETF Meeting** to the CCWG in Montreal, Canada.<br>
    - Developed eBAF, a kernel-level eBPF Ad Firewall that received a shout-out from eBPF Foundation Leader, **Bill Mulligan** in his newsletter **Echo News**.<br>
    - Co-Authored UnDIVE: Generalized Underwater Video Enhancement using Generative Priors, accepted to **WACV 2025**, and presented at Tucson, USA.
    - Authored HARQ Soft Combining Using Bidirectional LSTMs, accepted and presented at **SSWC2024**.<br><br>
