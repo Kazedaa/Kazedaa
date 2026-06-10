@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="250" src="https://i.pinimg.com/736x/4e/98/b3/4e98b3d2f7a28539b45ae7f6ee01e79e.jpg" alt="Profile Picture" />
+  <img width="250" src="github_profile_image.jpg" alt="Profile Picture" />
 
   ### ✨ Hi, I'm Hemang!
   
