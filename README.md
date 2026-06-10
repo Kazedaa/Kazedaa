@@ -12,14 +12,14 @@ I am an Applied AI and Computer Vision Researcher with a rigorous background in 
 
 #### **Currently working on:**
 - Medical Image Segmentation (In Review at EAAI)
-- Open Source Contributions to NeST
+- Open Source Contributions to [NeST](https://nest.nitk.ac.in/#/)
 
 #### **Latest Highlights:**
-- Authored MANTA: Physics-Informed Underwater Object Tracking, accepted to **WACV 2026**.
-- Presented a Congestion Control Evaluation Suite Design at the **124th IETF Meeting** to the CCWG in Montreal, Canada.
-- Developed eBAF, a kernel-level eBPF Ad Firewall that received a shout-out from eBPF Foundation Leader, **Bill Mulligan** in his newsletter **Echo News**.
-- Co-Authored UnDIVE: Generalized Underwater Video Enhancement using Generative Priors, accepted to **WACV 2025**, and presented at Tucson, USA.
-- Authored HARQ Soft Combining Using Bidirectional LSTMs, accepted and presented at **SSWC 2024**.
+- Authored MANTA: Physics-Informed Underwater Object Tracking, accepted to **WACV 2026**. [[LINK]](https://openaccess.thecvf.com/content/WACV2026/html/Srinath_MANTA_Physics-Informed_Generalized_Underwater_Object_Tracking_WACV_2026_paper.html)
+- Presented a Congestion Control Evaluation Suite Design at the **124th IETF Meeting** to the CCWG in Montreal, Canada. [[LINK]](https://www.youtube.com/watch?v=elcRv2ruyDc)
+- Developed eBAF, a kernel-level eBPF Ad Firewall that received a shout-out from eBPF Foundation Leader, **Bill Mulligan** in his newsletter **Echo News**. [LINK](https://www.linkedin.com/pulse/echo-news-85-bill-mulligan-jcsgf/).
+- Co-Authored UnDIVE: Generalized Underwater Video Enhancement using Generative Priors, accepted to **WACV 2025**, and presented at Tucson, USA. [[LINK]](https://openaccess.thecvf.com/content/WACV2025/html/Srinath_UnDIVE_Generalized_Underwater_Video_Enhancement_using_Generative_Priors_WACV_2025_paper.html)
+- Authored HARQ Soft Combining Using Bidirectional LSTMs, accepted and presented at **SSWC 2024**. [[LINK]](https://link.springer.com/chapter/10.1007/978-981-96-1348-9_9)
 
 <br>
 
