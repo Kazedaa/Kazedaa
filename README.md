@@ -1,34 +1,29 @@
-<img align="right" height="320" src="https://i.pinimg.com/736x/4e/98/b3/4e98b3d2f7a28539b45ae7f6ee01e79e.jpg"  />
-<br><br>
-###
+<div align="center">
+  <img width="250" src="https://i.pinimg.com/736x/4e/98/b3/4e98b3d2f7a28539b45ae7f6ee01e79e.jpg" alt="Profile Picture" />
 
-<h3 align="left">✨ Hi, I'm Hemang!</h3>
+  ### ✨ Hi, I'm Hemang!
+  
+  **Incoming MSCS Student at UCSD | BTech CSE at NITK, Minor in Machine Learning**
+</div>
 
-###
+I am an Applied AI and Computer Vision Researcher with a rigorous background in low-level systems engineering. I am also an avid open source enthusiasts, open for a chat or collaborate on interesting projects.
 
-<p align="left">
-<b>Incoming MSCS Student at UCSD | BTech CSE at NITK, Minor in Machine Learning</b> <br><br>
+**Actively Seeking Summer 2027 Internships**
 
-I am an Applied AI and Computer Vision Researcher with a rigorous background in low-level systems engineering<br><br>
-**Actively Seeking Summer 2027 Internships**<br><br>
+#### **Currently working on:**
+- Medical Image Segmentation (In Review at EAAI)
+- Open Source Contributions to NeST
 
-<b>Currently working on:</b> <br>
-   - Computer Vision Research <br>
-   - Systems Engineering & Open Source Contributions to NeST<br><br>
+#### **Latest Highlights:**
+- Authored MANTA: Physics-Informed Underwater Object Tracking, accepted to **WACV 2026**.
+- Presented a Congestion Control Evaluation Suite Design at the **124th IETF Meeting** to the CCWG in Montreal, Canada.
+- Developed eBAF, a kernel-level eBPF Ad Firewall that received a shout-out from eBPF Foundation Leader, **Bill Mulligan** in his newsletter **Echo News**.
+- Co-Authored UnDIVE: Generalized Underwater Video Enhancement using Generative Priors, accepted to **WACV 2025**, and presented at Tucson, USA.
+- Authored HARQ Soft Combining Using Bidirectional LSTMs, accepted and presented at **SSWC 2024**.
 
-<b>Latest Highlights:</b><br>
-   - Authored MANTA:Physics-Informed Underwater Object Tracking, accepted to **WACV2026**.<br>
-   - Presented a Congestion Control Evaluation Suite Design at the **124th IETF Meeting** to the CCWG in Montreal, Canada.<br>
-   - Developed eBAF, a kernel-level eBPF Ad Firewall that received a shout-out from eBPF Foundation Leader, **Bill Mulligan** in his newsletter **Echo News**.<br>
-   - Co-Authored UnDIVE: Generalized Underwater Video Enhancement using Generative Priors, accepted to **WACV 2025**, and presented at Tucson, USA.
-   - Authored HARQ Soft Combining Using Bidirectional LSTMs, accepted and presented at **SSWC2024**.<br><br>
-</p>
+<br>
 
-###
-
-<h1 align="center">🌐 Socials</h1>
-
-###
+<h2 align="center">🌐 Socials</h2>
 
 <div align="center">
   <a href="mailto:hemangjamadagni@gmail.com" target="_blank">
@@ -43,4 +38,3 @@ I am an Applied AI and Computer Vision Researcher with a rigorous background in 
     <img src="https://img.shields.io/badge/Google%20Scholar-%2320beff?color=1f1f18&logo=google-scholar&style=flat-square" height="40" alt="Google Scholar"  />
   </a>
 </div>
-<br clear="both">
